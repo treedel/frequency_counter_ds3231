@@ -15,5 +15,5 @@
  Connect the pins according to the layout provided below and upload the sketch.
 
  Pin layout:
- > External 1Hz reference signal    - D18
- > Test input signal                - D47
+ - External 1Hz reference signal    - D18
+ - Test input signal                - D47
