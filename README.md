@@ -1,4 +1,4 @@
-# FrequencyCounterEref
+# frequency_counter_ds3231
  A high accuracy frequency counter implementation that uses hardware counter and external reference signal for measurement.
  This allows more accurate measurement even with higher frequencies as the output is not dependent on crystal provided on
  the board.
